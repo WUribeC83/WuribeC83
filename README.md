@@ -14,6 +14,6 @@ Soy un Ingeniero Industrial con alta dedicación a las labores encomendadas, gra
 Mi experiencia incluye:
 
 - Realización de informes detallados y precisos
-- Análisis y manejo de grandes bases de datos
+- Análisis y manejo de grandes volúmenes de datos
 - Seguimiento y mejora continua de indicadores de desempeño
 - Gestión integral de recursos humanos
